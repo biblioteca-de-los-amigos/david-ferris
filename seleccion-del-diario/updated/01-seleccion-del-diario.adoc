@@ -702,8 +702,8 @@ footnote:[Colosenses 2:23]
 e idolatría. Pero con el pasar del tiempo percibí claramente que ese era el caso.
 Después de que nuestras mentes ya estaban satisfechas con respecto a esos puntos,
 me topé por primera vez con la [.book-title]#Apología# de Barclay.^
-footnote:[Una Apología por la Verdadera Teología Cristiana escrita por Robert Barclay,
-disponible en www.bibliotecadelosamigos.org.]
+footnote:[__Una Apología por la Verdadera Teología Cristiana__ escrita por Robert Barclay,
+disponible en www.bibliotecadelosamigos.org, bajo el título __Esta Grande Salvación__.]
 Pero ahora debo dejar a mi compañero de clase y nuestras discusiones,
 y retroceder un poco.
 
@@ -1252,12 +1252,13 @@ me preparé y fui en compañía de tres amigos ministros de Europa,
 quienes entonces estaban en una visita religiosa a América.
 Llegamos a Filadelfia a mediados del sexto mes, 1733.
 
+[.offset]
 Aquí termina la parte de mi narración que escribí en latín cuando era joven.
 
 [.asterism]
 '''
 
-David Ferris siguió adelante y se convirtió en un
+__David Ferris siguió adelante y se convirtió en un
 ministro fiel y útil en la Sociedad de Amigos,
 viajando frecuentemente con Samuel Neale y otros ministros eminentes,
 pero no antes de haber luchado por un tiempo muy largo con un sentido
@@ -1280,4 +1281,4 @@ Su dedo santo para cada servicio que le placiera asignarme;
 para que de aquí en adelante no perdiera ninguna oportunidad de manifestarle mi gratitud,
 al obedecer Su voluntad.`"
 Dejó esta vida el cinco del doceavo mes, de 1779, con más de setenta y dos años de edad,
-habiendo sido un ministro eficaz alrededor de veinticuatro años.
+habiendo sido un ministro eficaz alrededor de veinticuatro años.__
