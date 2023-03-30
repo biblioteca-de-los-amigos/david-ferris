@@ -361,7 +361,7 @@ Había formado la opinión de que las personas entre las cuales
 fui educado eran mejores que otros profesantes del Cristianismo;
 pero cuando mis ojos fueron ungidos de este modo para ver claramente,
 encontré muy poca religión verdadera entre ellos.
-Me parecía que la pureza primitiva estaba muy pérdida,
+Me parecía que la pureza primitiva estaba muy perdida,
 y estaba lleno de dolor y lamento por causa de la gran caída que
 había entre los profesantes de la religión cristiana en general.
 Porque cuanto más me interesaba en examinar el asunto y buscaba sabiduría divina,
@@ -772,7 +772,7 @@ dejé que mi compañero (con quien antes había discutido
 las doctrinas consideradas ahí) la examinara.
 Él leyó la obra atentamente e hizo muy pocas o ninguna objeción,
 sino más bien me dijo que los argumentos de Barclay eran irrefutables.
-Varios otros de los estudiantes que reflexionaban más las cosas, a quienes les?
+Varios otros de los estudiantes que reflexionaban más las cosas, a quienes les
 presté el libro, después de hacerlo, hicieron el mismo reconocimiento,
 haciendo muy poca objeción u oposición a los razonamientos de su autor.
 
@@ -1165,7 +1165,7 @@ mientras que "`thee`" y "`thou`" ("`tú`" y "`usted`") se reservaban para los si
 los niños o las personas de menor posición social o económica.
 Los amigos se ciñeron a lo que entonces se consideraba "`lenguaje simple`" (utilizar
 los pronombres "`thee`" y "`thou`" ("`tú`" y "`usted`") para una sola persona,
-y "`you`" y "`your`" ("`ustedes`" y "`vosotros`") para dos o más),
+y "`you`" y "`your`" ("`ustedes`" y "`vosotros`") para dos o más,
 en lugar de mostrar preferencia al dirigirse a ciertos individuos en plural.
 Esto parece algo insignificante para el lector del siglo XXI,
 pero muchos miles de los primeros Amigos fueron insultados, golpeados,
